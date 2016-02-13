@@ -5,3 +5,5 @@ aitendoで売っている極小MP3モジュール [M2801002]をArduinoから動�
 は、抵抗値で動作モードを決定するADKEYという機能を使用していますが、
 そのADKEY端子にArduinoのPWM出力にLPF通した信号を接続して、制御してみました。
 Arduino IDE 1.6.5 for Mac にて、作成しました。
+
+http://atmel.client.jp/m2801022.html
